@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <color name="colorAccent">#1DA5D2</color>
+    <color name="custom_progress_blue_header">#ff33b5e5</color>
+    <color name="custom_progress_blue_progress">#ff0099cc</color>
+    <color name="custom_progress_blue_progress_half">#7f0099cc</color>
+    <color name="background_content">#ff454344</color>
+    <color name="nodeColor">#828584</color>
+    <color name="buttonSelected">#34B5E5</color>
+    <color name="buttonUnSelected">#D6D7D7</color>
+</resources>
